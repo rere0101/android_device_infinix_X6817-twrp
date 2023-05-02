@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_X6817.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_X6817-user \
-    omni_X6817-userdebug \
-    omni_X6817-eng
+    twrp_X6817-user \
+    twrp_X6817-userdebug \
+    twrp_X6817-eng
